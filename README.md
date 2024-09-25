@@ -6,4 +6,6 @@ This is particularly useful when working with two separate orchestrators, especi
 inputs:  
 
 -in_UipathProjectFolderPathsList *new list(of String) From {"Uipath Project1 Directory","Uipath Project2 Directory"}*
+
+
 -in_ExtractionFolderPath *All Dependencies will be copied to this folder*
